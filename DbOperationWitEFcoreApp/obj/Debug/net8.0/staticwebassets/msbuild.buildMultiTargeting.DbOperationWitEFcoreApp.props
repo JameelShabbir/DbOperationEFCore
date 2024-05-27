@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DbOperationWitEFcoreApp.props" />
+</Project>

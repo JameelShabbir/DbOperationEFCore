@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("DbOperationWitEFcoreApp")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f077bfe89e17281cd494754f6a502fee46cdd8b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88359e51e6d8b9cc65b116bdb689b8db25dbfb0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DbOperationWitEFcoreApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DbOperationWitEFcoreApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

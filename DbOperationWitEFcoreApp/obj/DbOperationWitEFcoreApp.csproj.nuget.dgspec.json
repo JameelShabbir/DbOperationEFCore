@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding practice\\c#\\src\\DbOperationEFCore\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp.csproj": {}
+    "D:\\Coding practice\\c#\\src\\DbOperationEFCore\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp.csproj": {}
   },
   "projects": {
-    "D:\\Coding practice\\c#\\src\\DbOperationEFCore\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp.csproj": {
+    "D:\\Coding practice\\c#\\src\\DbOperationEFCore\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding practice\\c#\\src\\DbOperationEFCore\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp.csproj",
+        "projectUniqueName": "D:\\Coding practice\\c#\\src\\DbOperationEFCore\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp.csproj",
         "projectName": "DbOperationWitEFcoreApp",
-        "projectPath": "D:\\Coding practice\\c#\\src\\DbOperationEFCore\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp.csproj",
+        "projectPath": "D:\\Coding practice\\c#\\src\\DbOperationEFCore\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding practice\\c#\\src\\DbOperationEFCore\\DbOperationWitEFcoreApp\\DbOperationWitEFcoreApp\\obj\\",
+        "outputPath": "D:\\Coding practice\\c#\\src\\DbOperationEFCore\\DbOperationWitEFcoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,22 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.4.24267.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0-preview.4.24267.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-preview.4.24267.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
